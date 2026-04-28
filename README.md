@@ -51,3 +51,4 @@ If this policy ever changes, it will be updated here. However, our core promiseâ
 9. Contact
 
 If you have questions about this privacy policy, you can contact the developer through the appâ€™s support channel (if available).
+If you have any questions or need help with HapticPad, please reach out to me at: mbeckham4@icloud.com
