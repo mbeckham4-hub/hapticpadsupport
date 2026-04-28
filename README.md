@@ -1,0 +1,2 @@
+# hapticpadsupport
+Support for HapticPad.
